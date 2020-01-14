@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+	text-align: center;
+}
+
+html {
+	background-image: url("https://www.wallpaperflare.com/static/111/495/696/mountains-gradient-foggy-hd-wallpaper.jpg");
+}
+
+img {
+	border-style: solid
+}
+</style>
+</head>
+
+<div>
+<h1><i>Medical Terminology</i></h1>
+<p>This website hold terminology of medical practice involving senses.</p>
+<h2><b>Terms:</b></h2>
+
+	<li><b>Optic Nerve</b>: Takes visual information gathered from your eye and transmits it to your brain to make sense of what you are seeing.</li>
+	<li><b>Iris</b>: The colored portion of the eye; The part that controls the size of the openeing pupil where light passes into the eye.</li>
+
+</div>
+<html/>
