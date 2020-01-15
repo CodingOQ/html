@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<title>OQ Discord Services</title>
+
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+</ul>
+
+<h1><b>OQ Discord Services</b></h1>
+
+<p><b>Discord Creation</b>: With information given by you, we will create a customized Discord server <b>NOT</b> including permissions per channel. This is an additional service we may deny if we feel your request is too broad.</p>
+<img src="https://mee6.xyz/assets/7bed41ed279710f5a9ad64d8316e5e41.png" style="width:1200px;height:644px;">
+
+</html>
+
+<!-- CSS Down Below -->
+
+<style>
+html {
+	background-image: url("https://www.wallpaperflare.com/static/111/495/696/mountains-gradient-foggy-hd-wallpaper.jpg");
+}
+h1 {
+  font-size: 325%;
+  color: white;
+  text-align: center;
+}
+p {
+  margin-right: 1000px;
+  font-size: 175%;
+}
+img {
+  margin-left: 675px;
+}
+
+<!-- Menu Design -->
+
+li {
+  display: inline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 775px
+}
+
+li {
+  float: left;
+  font-size: 175%
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+</style>
